@@ -12,6 +12,7 @@ please dont judge my hideous code
 - connect texture of rocks when next to each other
 - mobile support
 - support more than 1920 x 1080
+- fix the trucking isometric cube texture bruh how did i mess it up that badly
 
 [] = not sure
 
