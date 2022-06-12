@@ -9,5 +9,15 @@ please dont judge my hideous code
 - [highscore]
 - better ui
 - vfx & sfx
+- connect texture of rocks together when next to each other
 
 [] = not sure
+
+<!-- 
+
+Credits: 
+  package: https://twitter.com/davitmasia/status/1189869163323568128
+  rock: https://www.davidepesce.com/2020/06/05/pixel-art-tutorial-how-to-draw-rocks-in-isometric-view/
+  letterbox: Me (sorry im quiete proud of it)
+
+-->
