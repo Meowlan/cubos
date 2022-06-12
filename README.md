@@ -10,6 +10,8 @@ please dont judge my hideous code
 - better ui
 - vfx & sfx
 - connect texture of rocks when next to each other
+- mobile support
+- support infinite resolutions
 
 [] = not sure
 
