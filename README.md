@@ -1,8 +1,7 @@
 # cubos
-a small isometric game about cubes<br />
-Controls: wasd
+#### a small isometric game about cubes<br />
+Controls: wasd<br />
 Goal: get the package inside the letterbox
-
 <br /><br />
 please dont judge my hideous code 
 
