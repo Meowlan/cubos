@@ -11,7 +11,7 @@ please dont judge my hideous code
 - vfx & sfx
 - connect texture of rocks when next to each other
 - mobile support
-- support infinite resolutions
+- support more than 1920 x 1080
 
 [] = not sure
 
