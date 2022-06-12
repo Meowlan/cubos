@@ -9,7 +9,7 @@ please dont judge my hideous code
 - [highscore]
 - better ui
 - vfx & sfx
-- connect texture of rocks together when next to each other
+- connect texture of rocks when next to each other
 
 [] = not sure
 
